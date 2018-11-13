@@ -7,3 +7,6 @@ Description: A Rounded base theme imported in part from an angular project
 Version: 1.0
 Text Domain: thecyrcletheme
 */
+body{
+  background-color: #000;
+}
