@@ -1,0 +1,150 @@
+/* Nav section */
+$nav-position : top, right;
+$nav-gradient: white, white;
+$ring-width : 35px;
+$number-of-items : 9;
+$transition-duration : .1s;
+$transition-easing: cubic-bezier(.3,.55,1.15);
+
+
+#pink{
+	background-color:pink;
+}
+
+#yellow{
+	background-color:yellow;
+}
+#blue{
+	background-color:blue;
+}
+
+#imgs
+  {
+
+		animation: logo 5.5s linear infinite;
+    }
+	@keyframes logo {
+  0% {
+		background-color: white;
+    transform: translateY(0px);
+  }
+	10%{
+		background-color: white;
+		transform: translateY(-10px);
+	}
+	15%{
+		background-color: white;
+		transform: translateY(0px);
+	}
+	25%{
+		background-color: white;
+		transform: translateY(-10px);
+	}
+	30%{
+		background-color: white;
+		transform: translateY(0px);
+	}
+	40%{
+		background-color: white;
+		transform: translateY(-10px);
+	}
+	45%{
+		background-color: white;
+		transform: translateY(0px);
+	}
+	100%{
+		background-color: white;
+		transform: translateY(0px);
+	}
+}
+
+.nav-menu img{
+	background-color: white;
+	cursor: pointer;
+}
+
+
+
+.nav-menu {
+	padding-top: 20px;
+	position: fixed;
+	width: $ring-width * 2;
+	height: $ring-width * 2;
+	line-height: $ring-width * 2;
+	border-radius: 50%;
+	transition: transform $transition-duration $transition-easing;
+	mix-blend-mode: initial;
+
+	&:focus { outline: 0; }
+	&:focus-within {
+		transform: rotate(20deg);
+	}
+
+
+	@if index($nav-position, "right") { right: $ring-width; }
+
+}
+
+.nav-ring {
+	background-color: transparent;
+	font: bold 16px sans-serif;
+	color: grey;
+	text-decoration: none;
+	position: absolute;
+	box-sizing: border-box;
+	text-align: center;
+	border-radius: 50%;
+	transition: .3s;
+	text-align: center;
+	cursor: default;
+	user-select: contain;
+
+
+	&:not(.nav-toggle) {
+		transform: scale3d(0,0,0);
+		line-height: $ring-width;
+	}
+
+	@for $i from 2 through $number-of-items {
+		$pct : $i/$number-of-items;
+		$background-color : mixin(
+					nth($nav-gradient, 1),
+					nth($nav-gradient, 1),
+					$pct * 90%
+				);
+
+		&:nth-child(#{$i}) {
+			display: inline-block;
+			width: ($i * 2) * $ring-width;
+			height: ($i * 2) * $ring-width;
+			top: ($i - 1) * -$ring-width;
+			left: ($i - 1) * -$ring-width;
+			z-index: $number-of-items - $i;
+			background-color: $background-color;
+
+			@if index($nav-position, "top") {
+				padding-top: ($i * 2 - 1) * $ring-width;
+			}
+		}
+	}
+}
+
+.nav-menu:focus-within .nav-ring {
+
+	transform: scale3d(1,1,1);
+
+	&:hover {
+
+		text-decoration: underline;
+	}
+
+	&:focus {
+		outline: 0;
+	}
+
+}
+
+.nav-toggle {
+	z-index: $number-of-items;
+
+}
