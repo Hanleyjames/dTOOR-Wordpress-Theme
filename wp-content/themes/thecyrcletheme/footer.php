@@ -7,7 +7,7 @@
 <div class="flex-container-foot">
 
 
-  <div class="container">
+  <!-- <div class="container"> -->
   <div class="section section1">
   <h2>Products</h2>
   <p><a href="https://www.cyrclephone.com/">CyrclePhone</a></p>
@@ -29,7 +29,7 @@
     <p><a href="https://dtoor.com/blog/">Blog</a></p>
       <p><a href="https://www.youtube.com/channel/UCshjB0L-2t11wnpCJNcJqJA">Videos</a></p>
   </div>
-</div>
+<!-- </div> -->
 </div>
 
 
