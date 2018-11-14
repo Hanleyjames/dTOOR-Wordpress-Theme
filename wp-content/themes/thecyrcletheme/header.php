@@ -15,4 +15,4 @@
 <body <?php body_class(); ?>>
   <div class="landing-image">
   </div>
-  <div class="project-introduction">
+  <!-- <div class="project-introduction"> -->

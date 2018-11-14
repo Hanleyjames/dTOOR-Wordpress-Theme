@@ -1,5 +1,3 @@
-
-
 <footer class="blog-footer">
   <div class="color-background">
 <div class="icons">
@@ -8,10 +6,6 @@
 </div>
 <div class="flex-container-foot">
 
-<!-- <div class="icons">
-<a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
-<a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
-</div> -->
 
 
   <div class="section section1">
@@ -43,7 +37,7 @@
 
 <div class="bottom-privacy">
 <div class="sec ">
-  
+
   <h1><a href="http://dtoor.com"><img src="<?php echo get_template_directory_uri(); ?>/library/images/t.png" id="imgFooter" /></a></h1>
 
   <p> Copyright dTOOR 2018 <a href="https://dtoor.com/privacy-policy"> Privacy Policy </a> |
@@ -54,6 +48,7 @@
 </div>
 
 </footer>
+
 <?php wp_footer(); ?>
 </body>
 </html>
