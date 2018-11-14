@@ -184,10 +184,13 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 // // background-color: #ffe6cc;
 //   padding: 20px;
 // }
+footer{
+	background-color: powderblue;
+}
 
 .flex-container{
-	background-color: powderblue;
-  font-size: 80%;
+	// background-color: powderblue;
+  font-size: 50%;
   max-width: 850px;
   margin: auto;
   display: flex;
