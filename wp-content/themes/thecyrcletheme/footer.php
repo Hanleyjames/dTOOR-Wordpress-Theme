@@ -30,13 +30,13 @@
       <p><a href="https://www.youtube.com/channel/UCshjB0L-2t11wnpCJNcJqJA">Videos</a></p>
   </div>
 <!-- </div> -->
-<!-- </div>
+</div>
 
 
 
 
 
-<div class="bottom-privacy"> -->
+<div class="bottom-privacy">
 <div class="sec ">
   <!-- <div class="row"> -->
 
