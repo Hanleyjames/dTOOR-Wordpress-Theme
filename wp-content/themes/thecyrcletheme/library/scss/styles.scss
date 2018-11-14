@@ -69,10 +69,9 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 }
 .container{
 	display: flex;
-}
-.nav-menu{
 	justify-content: flex-end;
 }
+
 .nav-menu img {
 	background-color: white;
 	cursor: pointer;
