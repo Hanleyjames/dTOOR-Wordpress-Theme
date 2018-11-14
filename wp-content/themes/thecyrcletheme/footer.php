@@ -37,7 +37,7 @@
 
 
 <div class="bottom-privacy">
-<!-- <div class="sec "> -->
+<div class="sec ">
   <!-- <div class="row"> -->
 
 <div class="col-md-6">
