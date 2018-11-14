@@ -1,4 +1,4 @@
-<footer class="blog-footer">
+<!-- <footer class="blog-footer"> -->
   <div class="color-background">
 <div class="icons">
 <a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
@@ -48,7 +48,7 @@
 
 </div>
 
-</footer>
+<!-- </footer> -->
 
 <?php wp_footer(); ?>
 </body>
