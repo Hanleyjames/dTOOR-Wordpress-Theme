@@ -1,4 +1,4 @@
-<footer class="blog-footer">
+<footer>
 
 <!-- <div class="icons">
 <a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
