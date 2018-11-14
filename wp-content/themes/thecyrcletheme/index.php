@@ -16,7 +16,7 @@
         <i class="fa fa-cloud" style="color:white;font-size:10px"></i>
     </marquee>
 </div>
-<div class="flex-container-content">
+<div class="container">
     <h1>The Cyrcle Phone</h1>
 
   <div class="section num1">
