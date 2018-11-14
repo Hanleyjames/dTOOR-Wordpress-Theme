@@ -8,11 +8,7 @@
 </div>
 
 <div class="flex-container-content">
-  <div
-data-sal="fade"
-data-sal-delay="100"
-data-sal-easing="ease-out-bounce"
->
+
 <div id="my-clouds">
 
     <marquee behavior="scroll" direction="left" scrollamount="5">
@@ -60,7 +56,7 @@ data-sal-easing="ease-out-bounce"
         <i class="fa fa-cloud" style="color:white;font-size:10px"></i>
     </marquee>
 </div>
-</div>
+
 </div>
   <link rel="stylesheet" href="./node_modules/sal.js/dist/sal.css">
 <?php get_footer(); ?>
