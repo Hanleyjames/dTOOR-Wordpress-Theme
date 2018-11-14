@@ -76,6 +76,7 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 
 
 .nav-menu {
+	float: right;
 	padding-top: 20px;
 	position: fixed;
 	width: $ring-width * 2;
