@@ -1,6 +1,6 @@
-</div><!-- /.row -->
+<!-- </div><!-- /.row -->
 
-</div><!-- /.container -->
+<!-- </div><!-- /.container --> --> -->
 
 <footer class="blog-footer">
   <div class="color-background">
