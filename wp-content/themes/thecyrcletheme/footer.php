@@ -52,7 +52,7 @@
 
 
 <div class="col-md-6">
-<div class="icons">
+<div class="float-right">
 <a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
 </div>
