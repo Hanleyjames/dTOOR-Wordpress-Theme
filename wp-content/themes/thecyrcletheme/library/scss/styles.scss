@@ -8,7 +8,7 @@
 // background-size: cover;
 // }
 /* Nav section */
-$nav-position : top, right;
+$nav-position : , right;
 $nav-gradient: white, white;
 $ring-width : 35px;
 $number-of-items : 9;
@@ -70,6 +70,7 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 .nav-menu img{
 	background-color: white;
 	cursor: pointer;
+	float: right;
 }
 
 

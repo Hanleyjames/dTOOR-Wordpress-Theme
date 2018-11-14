@@ -12,7 +12,7 @@
     <![endif]-->
     <?php wp_head(); ?>
 </head>
-<div class="row">
+<div class="row-fluid">
 <div class="float-right">
 
 <div class="nav-menu">
