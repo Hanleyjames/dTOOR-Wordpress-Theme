@@ -165,25 +165,28 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 
 }
 
-.landing-image{
-  background-color: powderblue;
-  display: block;
-  min-height: 960;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
 
 
-.color-background{
-  background-image: url("/assets/images/sunset.jpg");
-  color: white;
-// background-color: #ffe6cc;
-  padding: 20px;
-}
+// .landing-image{
+//   background-color: powderblue;
+//   display: block;
+//   min-height: 960;
+//   background-attachment: fixed;
+//   background-repeat: no-repeat;
+//   background-position: center;
+//   background-size: cover;
+// }
 
-.flex-container {
+
+// .color-background{
+//   background-image: url("/assets/images/sunset.jpg");
+//   color: white;
+// // background-color: #ffe6cc;
+//   padding: 20px;
+// }
+
+.flex-container{
+	background-color: powderblue;
   font-size: 80%;
   max-width: 850px;
   margin: auto;
@@ -233,24 +236,24 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 }
 
 .fa-twitter {
-  padding: 8px;
+
   background: #55ACEE;
   color: white;
 }
 .fa-facebook {
-  padding: 8px;
+
   background: #3B5998;
   color: white;
 }
 
 .fa-linkedin {
-  padding: 8px;
+
   background: #007bb5;
   color: white;
 }
 
 .fa-youtube {
-  padding: 8px;
+
   background: #bb0000;
   color: white;
 }
