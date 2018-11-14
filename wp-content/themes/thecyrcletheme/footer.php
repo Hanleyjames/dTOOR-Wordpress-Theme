@@ -15,13 +15,13 @@
 
 
   <div class="section section1">
-  <h1>Products</h1>
+  <h2>Products</h2>
   <p><a href="https://www.cyrclephone.com/">CyrclePhone</a></p>
     <p><a href="https://www.kickstarter.com/projects/1662021259/make-your-own-cyrcle-phone">Kickstarter</a></p>
   </div>
 
   <div class="section section2">
-    <h1>Company</h1>
+    <h2>Company</h2>
     <p><a href="https://dtoor.com">dTOOR's Website</a></p>
     <p><a href="https://dtoor.com/people/">Team</a></p>
     <p><a href="https://angel.co/dtoor-inc-spc/jobs">Careers</a></p>
@@ -29,7 +29,7 @@
   </div>
 
   <div class="section section3">
-    <h1>News</h1>
+    <h2>News</h2>
     <p><a href="https://dtoor.com/press/">Press</a></p>
     <p><a href="https://onedrive.live.com/view.aspx?resid=85DF849C68597C77!76528&ithint=file%2cdocx&app=Word&authkey=!AEZjtE0g8J2ek_k">Press Kit</a></p>
     <p><a href="https://dtoor.com/blog/">Blog</a></p>
