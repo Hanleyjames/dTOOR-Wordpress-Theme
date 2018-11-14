@@ -4,6 +4,7 @@
 <a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
 </div> -->
+<div class="conatiner-fluid">
 <div class="flex-container-foot">
 
 
@@ -58,14 +59,10 @@
 </div>
 </div>
 </div>
-<!-- </div> -->
-
-
-<!-- </div> -->
 
 
 </footer>
-
+</div>
 <?php wp_footer(); ?>
 </body>
 </html>
