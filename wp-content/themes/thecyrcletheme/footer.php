@@ -38,7 +38,7 @@
 
 <!-- <div class="bottom-privacy">
 <div class="sec "> -->
-  <!-- <div class="row"> -->
+  <div class="row">
 
 
   <div class="float-left">
@@ -51,10 +51,11 @@
 
 
 
-  <div class="float-right">
+<div class="float-right">
 <div class="icons">
 <a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
+</div>
 </div>
 </div>
 <!-- </div> -->
