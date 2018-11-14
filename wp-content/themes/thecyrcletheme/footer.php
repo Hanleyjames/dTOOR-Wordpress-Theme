@@ -43,7 +43,7 @@
 
 <div class="bottom-privacy">
 <div class="sec ">
-      <!-- <h1><a href="http://dtoor.com"><img src="./../../assets/images/t.png" /></a></h1> -->
+      <h1><a href="http://dtoor.com"><img src="./../../assets/images/t.png" id="imgFooter" /></a></h1>
   <p> Copyright dTOOR 2018 <a href="https://dtoor.com/privacy-policy"> Privacy Policy </a> |
   <a href="https://dtoor.com/social-purpose-statement"> Annual Report </a></p>
 </div>
