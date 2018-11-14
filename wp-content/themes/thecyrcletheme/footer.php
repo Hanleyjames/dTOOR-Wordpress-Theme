@@ -4,7 +4,7 @@
 <a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
 </div> -->
-<div class="conatiner">
+<div class="foot">
 <div class="flex-container-foot">
 
 
