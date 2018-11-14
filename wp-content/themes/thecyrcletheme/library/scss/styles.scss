@@ -1,4 +1,12 @@
-
+// .t{
+// 	background-image: url("../images/SeattleCyrcle.jpg");
+// 	display: block;
+// min-height: 960px;
+// background-attachment: fixed;
+// background-position: center;
+// background-repeat: no-repeat;
+// background-size: cover;
+// }
 /* Nav section */
 $nav-position : top, right;
 $nav-gradient: white, white;
@@ -6,7 +14,6 @@ $ring-width : 35px;
 $number-of-items : 9;
 $transition-duration : .1s;
 $transition-easing: cubic-bezier(.3,.55,1.15);
-
 
 
 #pink{
@@ -60,11 +67,9 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 	}
 }
 
-div .nav-menu img{
+.nav-menu img{
 	background-color: white;
 	cursor: pointer;
-	display: flex;
-	justify-content: flex-end;
 }
 
 
