@@ -26,46 +26,46 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 #blue{
 	background-color:blue;
 }
-//
-// #imgs
-//   {
-//
-// 		animation: logo 5.5s linear infinite;
-//     }
-// 	@keyframes logo {
-//   0% {
-// 		background-color: white;
-//     transform: translateY(0px);
-//   }
-// 	10%{
-// 		background-color: white;
-// 		transform: translateY(-10px);
-// 	}
-// 	15%{
-// 		background-color: white;
-// 		transform: translateY(0px);
-// 	}
-// 	25%{
-// 		background-color: white;
-// 		transform: translateY(-10px);
-// 	}
-// 	30%{
-// 		background-color: white;
-// 		transform: translateY(0px);
-// 	}
-// 	40%{
-// 		background-color: white;
-// 		transform: translateY(-10px);
-// 	}
-// 	45%{
-// 		background-color: white;
-// 		transform: translateY(0px);
-// 	}
-// 	100%{
-// 		background-color: white;
-// 		transform: translateY(0px);
-// 	}
-// }
+
+#imgs
+  {
+
+		animation: logo 5.5s linear infinite;
+    }
+	@keyframes logo {
+  0% {
+		background-color: white;
+    transform: translateY(0px);
+  }
+	10%{
+		background-color: white;
+		transform: translateY(-10px);
+	}
+	15%{
+		background-color: white;
+		transform: translateY(0px);
+	}
+	25%{
+		background-color: white;
+		transform: translateY(-10px);
+	}
+	30%{
+		background-color: white;
+		transform: translateY(0px);
+	}
+	40%{
+		background-color: white;
+		transform: translateY(-10px);
+	}
+	45%{
+		background-color: white;
+		transform: translateY(0px);
+	}
+	100%{
+		background-color: white;
+		transform: translateY(0px);
+	}
+}
 
 .nav-menu img{
 	background-color: white;
