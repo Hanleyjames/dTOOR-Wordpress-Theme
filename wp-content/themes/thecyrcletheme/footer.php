@@ -1,6 +1,4 @@
-<!-- </div><!-- /.row -->
 
-<!-- </div><!-- /.container --> --> -->
 
 <footer class="blog-footer">
   <div class="color-background">
