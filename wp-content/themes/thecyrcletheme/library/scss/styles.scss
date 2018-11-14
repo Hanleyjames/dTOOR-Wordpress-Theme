@@ -148,3 +148,13 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 	z-index: $number-of-items;
 
 }
+
+.landing-image{
+  background-image: url('../images/landing-image.jpg');
+  display: block;
+  min-height: 960;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
