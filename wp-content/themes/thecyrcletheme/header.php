@@ -13,7 +13,7 @@
     <?php wp_head(); ?>
 </head>
 <div class="nav-menu">
-  <img class="nav-toggle nav-ring" id="imgs" src="<?php echo get_template_directory_uri(); ?>/library/images/SeattleCyrcle.png" tabindex="0" /><a id="logo" class="nav-ring" href="#" tabindex="0"></a>
+  <img class="nav-toggle nav-ring" id="imgs" src="<?php echo get_template_directory_uri(); ?>/library/images/navlogo.png" tabindex="0" /><a id="logo" class="nav-ring" href="#" tabindex="0"></a>
   <a class="nav-toggle nav-ring" tabindex="1"></a><a href="https://dtoor.com/social-purpose-statement" id="pink" class="nav-ring" tabindex="0"><span>About Us</span></a>
   <a class="nav-toggle nav-ring" tabindex="2"></a><a href="https://dtoor.com/blog" class="nav-ring" id="yellow" tabindex="0"><span>Blog</span></a>
   <a class="nav-toggle nav-ring" tabindex="3"></a><a href="https://dtoor.com" class="nav-ring" id="blue" tabindex="0"><span>Our Company</span></a>
