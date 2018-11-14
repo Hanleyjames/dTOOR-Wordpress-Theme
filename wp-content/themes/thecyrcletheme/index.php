@@ -36,7 +36,7 @@
   <h2>Unique phones, unique ideas.</h2>
   <p>The Cyrcle phone isn't your ordinary mobile device. We're building a unique experience missed by other kickstarter projects. We feel the need and want for a unique phone design has long since been neglected -- and we're answering the call! We look forward to raising the bar as the best curved phone on the market.</p>
 </div>
-<!-- <div id="my-clouds">
+<div id="my-clouds">
     <marquee behavior="scroll" direction="right" scrollamount="15">
         <i class="fa fa-cloud" style="color:white;font-size:40px"></i>
     </marquee>
@@ -49,7 +49,7 @@
     <marquee behavior="scroll" direction="left" scrollamount="5">
         <i class="fa fa-cloud" style="color:white;font-size:10px"></i>
     </marquee>
-</div> -->
+</div>
 
 </div>
 <?php get_footer(); ?>
