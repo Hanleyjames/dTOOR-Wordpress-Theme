@@ -18,4 +18,7 @@
   <a class="nav-toggle nav-ring" tabindex="2"></a><a href="https://dtoor.com/blog" class="nav-ring" id="yellow" tabindex="0"><span>Blog</span></a>
   <a class="nav-toggle nav-ring" tabindex="3"></a><a href="https://dtoor.com" class="nav-ring" id="blue" tabindex="0"><span>Our Company</span></a>
 </div>
+
+
+
 <body <?php body_class(); ?>>
