@@ -2,7 +2,7 @@
 <?php get_header(); ?>
 
 
-<!-- <div class="flex-container-content"> -->
+<div class="flex-container-content">
 
 <div id="my-clouds">
     <marquee behavior="scroll" direction="right" scrollamount="14">
@@ -33,7 +33,6 @@
   <h2>Unique phones, unique ideas.</h2>
   <p>The Cyrcle phone isn't your ordinary mobile device. We're building a unique experience missed by other kickstarter projects. We feel the need and want for a unique phone design has long since been neglected -- and we're answering the call! We look forward to raising the bar as the best curved phone on the market.</p>
 </div>
-</div>
 <div id="my-clouds">
     <marquee behavior="scroll" direction="left" scrollamount="10">
         <i class="fa fa-cloud" style="color:white;font-size:60px"></i>
@@ -46,5 +45,5 @@
     </marquee>
 </div>
 
-<!-- </div> -->
+</div>
 <?php get_footer(); ?>
