@@ -67,7 +67,12 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 		transform: translateY(0px);
 	}
 }
-
+.container{
+	display: flex;
+}
+.nav-menu{
+	justify-content: flex-end;
+}
 .nav-menu img {
 	background-color: white;
 	cursor: pointer;
@@ -75,7 +80,7 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 }
 .nav-menu img a{
 
- float: right;
+ //float: right;
 }
 
 
