@@ -39,7 +39,7 @@
 
 <!-- <div class="bottom-privacy">
 <div class="sec "> -->
-<footer class="container-fluid">
+<footer class="container">
   <div class="row">
 
   <div class="col-md-6">
