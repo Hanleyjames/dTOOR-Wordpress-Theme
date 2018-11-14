@@ -62,5 +62,5 @@ data-sal-easing="ease-out-bounce"
 </div>
 </div>
 </div>
-
+  <link rel="stylesheet" href="./node_modules/sal.js/dist/sal.css">
 <?php get_footer(); ?>
