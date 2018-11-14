@@ -36,8 +36,8 @@
 
 
 
-<div class="bottom-privacy">
-<div class="sec ">
+<!-- <div class="bottom-privacy">
+<div class="sec "> -->
   <!-- <div class="row"> -->
 
 
@@ -57,10 +57,10 @@
 <a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
 </div>
 </div>
-</div>
+<!-- </div> -->
 
 
-</div>
+<!-- </div> -->
 
 
 </footer>
