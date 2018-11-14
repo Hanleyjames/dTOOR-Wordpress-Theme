@@ -70,13 +70,13 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 .nav-menu img{
 	background-color: white;
 	cursor: pointer;
-	float: right;
+	// float: right;
 }
 
 
 
 .nav-menu {
-	float: right;
+	// float: right;
 	padding-top: 20px;
 	position: fixed;
 	width: $ring-width * 2;
