@@ -24,5 +24,3 @@
   <div class="landing-image">
   </div>
   <div class="project-introduction">
-
-  </div>
