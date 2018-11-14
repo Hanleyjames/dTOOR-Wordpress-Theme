@@ -48,7 +48,7 @@
   <p> Copyright dTOOR 2018 <a href="https://dtoor.com/privacy-policy"> Privacy Policy </a> |
   <a href="https://dtoor.com/social-purpose-statement"> Annual Report </a></p>
 </div>
-<!-- </div> -->
+</div>
 
 
 
@@ -57,7 +57,6 @@
 <div class="float-right">
 <a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
-</div>
 </div>
 </div>
 </div>
