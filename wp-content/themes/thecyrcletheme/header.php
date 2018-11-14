@@ -13,7 +13,7 @@
     <?php wp_head(); ?>
 </head>
 <div class="container">
-<div class="row">
+<!-- <div class="row"> -->
 <!-- <div class="float-right"> -->
 
 <div class="nav-menu">
@@ -25,7 +25,7 @@
 </div>
 </div>
 <!-- </div> -->
-</div>
+<!-- </div> -->
 </div>
 
 
