@@ -12,7 +12,8 @@
     <![endif]-->
     <?php wp_head(); ?>
 </head>
-<div class="row-fluid">
+<div class="container">
+<div class="row">
 <div class="float-right">
 
 <div class="nav-menu">
@@ -23,6 +24,6 @@
 </div>
 </div>
 </div>
-
+</div>
 
 <body <?php body_class(); ?>>
