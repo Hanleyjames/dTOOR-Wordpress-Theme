@@ -29,7 +29,7 @@ $transition-easing: cubic-bezier(.3,.55,1.15);
 
 #imgs
   {
-
+		float: right;
 		animation: logo 5.5s linear infinite;
     }
 // 	@keyframes logo {
