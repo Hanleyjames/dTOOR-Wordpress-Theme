@@ -33,7 +33,7 @@ background-size: cover;
 	background-color: powderblue;
 }
 
-.foot-content-below{
+footer .foot-content-below{
 	display: flex;
 	justify-content: flex-start;
 }
@@ -47,10 +47,10 @@ background-size: cover;
 // 	// height: 10px;
 // }
 
-.below{
-	flex: 1;
-	// border-radius: 10px;
-}
+// .below{
+// 	flex: 1;
+// 	// border-radius: 10px;
+// }
 
 .section {
   flex: 1;
