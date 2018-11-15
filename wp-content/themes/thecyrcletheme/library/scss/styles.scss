@@ -49,8 +49,8 @@ footer{
 // }
 
 .test{
-	display: flex;
-	justify-content: flex-start;
+	flex: 1;
+	// border-radius: 10px;
 }
 .icon{
 display: flex;
