@@ -7,7 +7,15 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 }
-
+.phone{
+	background-image: url("../images/M.jpg");
+	display: block;
+	min-height: 960px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 
 .blog-footer{
 	background-color: powderblue;

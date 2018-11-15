@@ -47,4 +47,6 @@
 </div>
 
 </div>
+
+<div class="phone"></div>
 <?php get_footer(); ?>
