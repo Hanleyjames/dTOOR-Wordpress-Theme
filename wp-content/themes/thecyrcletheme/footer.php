@@ -10,6 +10,7 @@
   <a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
   <a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
   </div>
+
 <div class="flex-container-foot">
 
 
@@ -43,14 +44,14 @@
 
 
 <footer class="foot-content-below">
- <div class="test">
+
 
      <!-- <div class="test"> -->
   <h1><a href="http://dtoor.com"><img src="<?php echo get_template_directory_uri(); ?>/library/images/t.png" id="imgFooter" /></a></h1>
 
   <p> Copyright dTOOR 2018 <a href="https://dtoor.com/privacy-policy"> Privacy Policy </a> |
   <a href="https://dtoor.com/social-purpose-statement"> Annual Report </a></p>
-</div>
+
 <!-- </div> -->
 
 
