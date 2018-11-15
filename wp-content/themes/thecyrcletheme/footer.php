@@ -55,7 +55,7 @@
 <a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
 </div>
 </div>
-<!-- </div> -->
+
 
 
 </footer>
