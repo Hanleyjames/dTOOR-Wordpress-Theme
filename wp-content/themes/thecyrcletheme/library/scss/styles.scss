@@ -48,13 +48,12 @@ footer{
 // 	// height: 10px;
 // }
 
-.below{
-	flex: 1;
-
-	// border-radius: 10px;
+.test{
+	display: flex;
+	justify-content: flex-start;
 }
 .icon{
-	display: flex;
+display: flex;
 justify-content: flex-end;
 }
 

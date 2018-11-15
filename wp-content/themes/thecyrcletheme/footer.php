@@ -38,7 +38,7 @@
 
 
 <footer class="foot-content-below">
- <div class="below below1">
+ <div class="test">
 
      <!-- <div class="test"> -->
   <h1><a href="http://dtoor.com"><img src="<?php echo get_template_directory_uri(); ?>/library/images/t.png" id="imgFooter" /></a></h1>
@@ -49,12 +49,12 @@
 <!-- </div> -->
 
 
- <div class="below below2">
-  <div class="icon">
+ <!-- <div class="below below2"> -->
+<div class="icon">
 <a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
 </div>
-</div>
+<!-- </div> -->
 
 
 
