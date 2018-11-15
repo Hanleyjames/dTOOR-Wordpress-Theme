@@ -18,10 +18,10 @@ background-size: cover;
 }
 
 .flex-container-foot{
-	// background-color: powderblue;
+
 	padding-bottom: 120px;
   font-size: 90%;
-  // max-width: 850px;
+
   margin: auto;
   display: flex;
   justify-content: space-between;
@@ -37,34 +37,9 @@ footer{
 text-align: center;
 }
 
-
-// .icons{
-//   display: flex;
-//   justify-content: flex-end;
-// 	// width: 30px;
-// 	// border-radius: 20px;
-// 	// height: 10px;
-// }
-
-// .test{
-// 	flex: 1;
-// 	// border-radius: 10px;
-// }
-// .icon{
-// display: flex;
-// justify-content: flex-end;
-// // // padding: 5px;
-// //
-// //   font-size: 20px;
-// //   width: 35px;
-// //   text-align: center;
-// //   text-decoration: none;
-// //   margin: 5px 8px;
-// //   border-radius: 50%;
-// }
 .icon{
 	float: right;
-	padding-bottom: 10px;
+
 }
 
 .section {
@@ -81,18 +56,9 @@ text-align: center;
   flex: 1;
 }
 
-// .test{
-// 	float:left;
-// }
-//
-// .ficons{
-// float: right;
-// }
-//
 .fa {
  padding: 5px;
- // display: flex;
- // justify-content: flex-end;
+	padding-bottom: 10px;
   font-size: 20px;
   width: 35px;
   text-align: center;
@@ -130,7 +96,6 @@ text-align: center;
 
 
 .flex-container-content{
-    // background-color:yellow;
   background-color:	#87CEEB;
   color: white;
   text-align: center;
