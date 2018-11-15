@@ -3,9 +3,6 @@
 
 
 <div class="flex-container-foot">
-
-
-  <!-- <div class="container"> -->
   <div class="section section1">
   <h2>Products</h2>
   <p><a href="https://www.cyrclephone.com/">CyrclePhone</a></p>
@@ -51,7 +48,7 @@
   <a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
   </div>
 </div>
-
+</div>
 
 
 </footer>
