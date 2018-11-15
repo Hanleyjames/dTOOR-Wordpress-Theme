@@ -14,6 +14,3 @@
     <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
-  <div class="landing-image">
-  </div>
-  <div class="project-introduction">
