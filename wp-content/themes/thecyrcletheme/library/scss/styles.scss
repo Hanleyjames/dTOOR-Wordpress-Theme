@@ -34,7 +34,7 @@ background-size: cover;
 }
 
 footer{
-	max-width: 400px;
+
 	display: flex;
 	justify-content: space-around;
 }
@@ -53,10 +53,10 @@ footer{
 
 	// border-radius: 10px;
 }
-// .icon{
-// 	flex: 1;
-//
-// }
+.icon{
+	display: flex;
+justify-content: flex-end;
+}
 
 .section {
   flex: 1;
