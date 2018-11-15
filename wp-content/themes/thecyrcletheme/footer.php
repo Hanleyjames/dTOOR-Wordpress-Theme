@@ -1,19 +1,8 @@
 
-
-<footer class="blog-footer">
-  <div class="color-background">
-<div class="icons">
-<a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
-<a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
-</div>
-<div class="flex-container">
-
-<!-- <div class="icons">
-<a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
-<a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
-</div> -->
+<div class="foot">
 
 
+<div class="flex-container-foot">
   <div class="section section1">
   <h2>Products</h2>
   <p><a href="https://www.cyrclephone.com/">CyrclePhone</a></p>
@@ -35,23 +24,37 @@
     <p><a href="https://dtoor.com/blog/">Blog</a></p>
       <p><a href="https://www.youtube.com/channel/UCshjB0L-2t11wnpCJNcJqJA">Videos</a></p>
   </div>
+
 </div>
 
 
 
 
 
-<div class="bottom-privacy">
-<div class="sec ">
-      <!-- <h1><a href="http://dtoor.com"><img src="./../../assets/images/t.png" /></a></h1> -->
+<footer class="foot-content-below">
+
+
+  <div class="row">
+    <div class="col-md-6">
+  <h1><a href="http://dtoor.com"><img src="<?php echo get_template_directory_uri(); ?>/library/images/t.png" id="imgFooter" /></a></h1>
+
   <p> Copyright dTOOR 2018 <a href="https://dtoor.com/privacy-policy"> Privacy Policy </a> |
   <a href="https://dtoor.com/social-purpose-statement"> Annual Report </a></p>
 </div>
+
+  <div class="col-md-6">
+  <div class="icon">
+  <a href="#" class="fa fa-facebook"></a>
+  <a href="#" class="fa fa-twitter"></a>
+  <a href="#" class="fa fa-linkedin"></a>
+  <a href="#" class="fa fa-youtube"></a>
+  </div>
+</div>
 </div>
 
-</div>
 
 </footer>
+</div>
 <?php wp_footer(); ?>
 </body>
 </html>
