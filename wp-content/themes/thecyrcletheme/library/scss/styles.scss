@@ -29,10 +29,14 @@ background-size: cover;
 
 .foot{
 	padding-top: 80px;
-	padding-bottom: 10px;
+	padding-bottom: 5px;
 	background-color: powderblue;
 }
 
+.foot-content-below{
+	display: flex;
+	justify-content: space-between;
+}
 
 
 // .icons{
@@ -43,6 +47,11 @@ background-size: cover;
 // 	// height: 10px;
 // }
 
+.below{
+	flex: 1;
+	// border-radius: 10px;
+	text-align: center;
+}
 
 .section {
   flex: 1;
@@ -52,11 +61,6 @@ background-size: cover;
 
 #imgFooter{
   height: 30px;
-}
-
-footer {
-  display: flex;
-  justify-content: space-evenly;
 }
 
 .sec{
