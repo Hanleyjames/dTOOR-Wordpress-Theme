@@ -54,31 +54,33 @@ background-size: cover;
   height: 30px;
 }
 
-// .bottom-privacy {
-//   display: flex;
-//   justify-content;
+footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sec{
+  flex: 1;
+}
+
+// .test{
+// 	float:left;
 // }
-
-// .sec{
-//   flex: 1;
+//
+// .ficons{
+// float: right;
 // }
-
-.test{
-	float:left;
-}
-
-.ficons{
-float: right;
-}
-
-.fa {
-// padding: 5px;
-
-  font-size: 20px;
-  width: 35px;
-  margin: 5px 8px;
-  border-radius: 50%;
-}
+//
+// .fa {
+// // padding: 5px;
+//
+//   font-size: 20px;
+//   width: 35px;
+//   text-align: center;
+//   text-decoration: none;
+//   margin: 5px 8px;
+//   border-radius: 50%;
+// }
 
 .fa:hover {
     opacity:10;
