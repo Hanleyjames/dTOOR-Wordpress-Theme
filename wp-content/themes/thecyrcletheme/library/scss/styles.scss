@@ -1,6 +1,6 @@
 .t{
 background-image: url("../images/SeattleCyrcle.jpg");
-display: block;
+display:  flex;
 min-height: 960px;
 
 width: 100%;
@@ -9,7 +9,7 @@ position: absolute;
 // left: 0;
 // height: auto;
 
-background-attachment: fixed;
+// background-attachment: fixed;
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
