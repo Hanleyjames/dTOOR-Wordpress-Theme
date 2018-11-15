@@ -50,18 +50,18 @@ text-align: center;
 // 	flex: 1;
 // 	// border-radius: 10px;
 // }
-.icon{
-display: flex;
-justify-content: flex-end;
-// // padding: 5px;
-//
-//   font-size: 20px;
-//   width: 35px;
-//   text-align: center;
-//   text-decoration: none;
-//   margin: 5px 8px;
-//   border-radius: 50%;
-}
+// .icon{
+// display: flex;
+// justify-content: flex-end;
+// // // padding: 5px;
+// //
+// //   font-size: 20px;
+// //   width: 35px;
+// //   text-align: center;
+// //   text-decoration: none;
+// //   margin: 5px 8px;
+// //   border-radius: 50%;
+// }
 
 .section {
   flex: 1;
@@ -87,7 +87,8 @@ justify-content: flex-end;
 //
 .fa {
  padding: 5px;
-
+ display: flex;
+ justify-content: flex-end;
   font-size: 20px;
   width: 35px;
   text-align: center;
