@@ -37,8 +37,6 @@
 
 
 
-<!-- <div class="bottom-privacy">
-<div class="sec "> -->
 <footer>
  <div class="row">
   <div class="col-md-6">
@@ -49,13 +47,7 @@
   <a href="https://dtoor.com/social-purpose-statement"> Annual Report </a></p>
 </div>
 </div>
-<!-- </div> -->
-<!-- </div> -->
 
-
-
-
-<!-- <div class="col-md-6"> -->
 <div class="col-md-6">
   <div class="icons">
 <a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
@@ -63,7 +55,7 @@
 </div>
 </div>
 </div>
-<!-- </div> --> -->
+
 
 </footer>
 </div>
