@@ -7,8 +7,10 @@
 <div class="foot">
 
   <div class="row">
+    <div class="icon">
   <a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-twitter"></a>
   <a href="#" class="fa fa-linkedin"></a><a href="#" class="fa fa-youtube"></a>
+</div>
   </div>
 
 <div class="flex-container-foot">
