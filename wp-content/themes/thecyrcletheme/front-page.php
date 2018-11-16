@@ -3,6 +3,7 @@
 
 <div class="landing-image"></div>
 
+
 <div class="less-invasive-mailchimp col-md-12">
   <div class="flex-container-content">
     <div id="mc_embed_signup front-page-mc">
@@ -76,7 +77,6 @@
 <div class="FAQ">
   <h2>FAQ</h2>
   <br />
-
   <div id="question-answer">
     <div class="question">
       <h3>Why are there no images of your new phone model?</h3>
@@ -112,7 +112,7 @@
       <h3>How can I find out more about the CyrclePhone 4G?</h3>
     </div>
     <div class="answer">
-      <p>Sign up for our updates! It's the best way to know about our current development. Otherwise, you can check out our Cyrcle Phone 2G Kickstarter and Social Purpose Statement!</p>
+      <p>Sign up for our updates! It's the best way to know about our current development. Otherwise, you can check out our (Old)Kickstarter and Social Purpose Statement!</p>
     </div>
   </div>
 </div>
