@@ -46,7 +46,7 @@
             <div id="mc_embed_signup">
             <form action="https://thecyrclephone.us12.list-manage.com/subscribe/post?u=01a458396e37205a5745fbfec&amp;id=7b4ccb81be" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                <div id="mc_embed_signup_scroll">
-                <h4>Subscribe to our mailing list</h4>
+                <p>Join over 5k fans for updates!</p>
             <div class="mc-field-group">
                 <label for="mce-EMAIL" id="email-label">Email Address
             </label>

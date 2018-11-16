@@ -139,6 +139,14 @@ a:hover{
 	background: powderblue;
 	form{
 		background-color: powderblue;
-		background: powderblue
+		background: powderblue;
+		input{
+			border-radius: 20%;
+			border-top: 0px;
+			border-left: 0px;
+			border-right: 0px;
+			border-width: medium;
+			border-color: black;
+		}
 	}
 }
