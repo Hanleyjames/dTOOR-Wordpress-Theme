@@ -2,7 +2,7 @@
     <div class="flex-container-foot">
       <div class="section section1">
         <h2>Products</h2>
-        <p><a href="https://www.thecyrclephone.com/">CyrclePhone</a></p>
+        <p><a href="https://www.thecyrclephone.com/">The Cyrcle Phone 4G</a></p>
         <p><a href="https://www.kickstarter.com/projects/1662021259/make-your-own-cyrcle-phone">The Cyrcle Phone 2G</a></p>
       </div>
       <div class="section section2">
