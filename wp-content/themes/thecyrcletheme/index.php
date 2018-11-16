@@ -1,4 +1,4 @@
-<div class="t"></div>
+<div class="landing-image"></div>
 <?php get_header(); ?>
 
 
