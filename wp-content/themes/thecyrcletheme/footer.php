@@ -29,6 +29,7 @@
           </div>
           <div class="col-md-4">
             <div class="icon">
+              <a href="https://www.instagram.com/dtoor_inc/" class="fa fa-instagram"></a>
               <a href="https://www.facebook.com/TheCyrclePhone" class="fa fa-facebook"></a>
               <a href="https://www.twiter.com/Thecyrclephone" class="fa fa-twitter"></a>
               <a href="https://www.linkedin.com/company/dtoor" class="fa fa-linkedin"></a>
