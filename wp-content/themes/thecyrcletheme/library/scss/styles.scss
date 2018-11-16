@@ -144,11 +144,11 @@ a:hover{
 
 @media(max-width:568px){
 	.landing-image{
-		min-height: 700px;
 		background-attachment: scroll;
-		max-width: 100%;
+	
 		background-repeat: no-repeat;
-	background-size: contain ;
+	// background-size: contain ;
+	min-height: 950px;
 
 		// position: relative;
 		// background-position: center;
