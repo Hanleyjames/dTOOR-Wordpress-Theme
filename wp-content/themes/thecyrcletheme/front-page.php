@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 
-<div class="landing-image"></div>
+<div class="landing-image" style="width:50%;height:100%;"></div>
 <div class="flex-container-content">
 
   <div id="my-clouds">
