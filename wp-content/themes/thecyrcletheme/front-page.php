@@ -6,7 +6,7 @@
   <div class="less-invasive-mailchimp col-md-12">
     <!-- Begin Mailchimp Signup Form -->
 
-    <div id="mc_embed_signup" class="lol">
+    <div id="mc_embed_signup front-page-mc">
     <form action="https://thecyrclephone.us12.list-manage.com/subscribe/post?u=01a458396e37205a5745fbfec&amp;id=7b4ccb81be" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
        <div id="mc_embed_signup_scroll">
     <div class="mc-field-group">
