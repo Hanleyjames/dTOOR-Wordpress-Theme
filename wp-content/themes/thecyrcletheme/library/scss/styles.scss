@@ -141,23 +141,7 @@ a:hover{
 	  text-decoration: none;
 }
 
-#less-invasive-mailchimp{
-	background-color: #87CEEB;
-	background:#87CEEB;
-	display: flex;
-	border-radius: 50%;
-	width: 50%;
-	margin-left: auto;
-	margin-right: auto;
-	#mc_embed_signup{
-		background-color: #87CEEB;
-		background:#87CEEB;
-		margin-left: auto;
-		margin-right: auto;
-		margin-top: 4px;
-		margin-bottom: 4px;
-	}
-}
+
 #mc_embed_signup{
 	background-color: powderblue;
 	background: powderblue;
@@ -188,6 +172,24 @@ a:hover{
 			background-color: #183299;
 			background: #183299;
 		}
+	}
+}
+
+#less-invasive-mailchimp{
+	background-color: #87CEEB;
+	background:#87CEEB;
+	display: flex;
+	border-radius: 50%;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	#mc_embed_signup{
+		background-color: #87CEEB;
+		background:#87CEEB;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 4px;
+		margin-bottom: 4px;
 	}
 }
 
