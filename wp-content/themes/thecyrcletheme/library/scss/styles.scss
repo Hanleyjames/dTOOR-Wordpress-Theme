@@ -4,6 +4,7 @@
 background-image: url("../images/SeattleCyrcle.jpg");
 // display: block;
 min-height: 700px;
+max-width: 100%;
 // background-attachment: fixed;
 // background-position: center;
 // background-repeat: no-repeat;
@@ -12,6 +13,7 @@ min-height: 700px;
 }
 
 .landing-image, .phone{
+	display:block;
 	position: relative;
 	background-position: center;
 	background-size: cover;
@@ -36,6 +38,7 @@ min-height: 700px;
 .phone{
 	background-image: url("../images/M.jpg");
 	min-height: 700px;
+	max-width: 100%,
 	// background-attachment: fixed;
 	// background-position: center;
 	// background-repeat: no-repeat;
