@@ -212,16 +212,7 @@ div#footer_mc{
 	}
 }
 
-@media(max-width:560px){
-	.landing-image, .phone{
-		background-attachment: scroll;
-	min-height: 350px;
-	background-size: cover;
 
-
-
-	}
-}
 .FAQ{
 	text-align: center;
 	background: #87CEEB;
@@ -267,5 +258,15 @@ div#footer_mc{
 			border-radius: 20%;
 			box-shadow: 1px 3px 1px 1px rgba(0,0,0,.1);
 		}
+	}
+}
+@media(max-width:560px){
+	.landing-image, .phone{
+		background-attachment: scroll;
+	min-height: 350px;
+	background-size: cover;
+
+
+
 	}
 }
