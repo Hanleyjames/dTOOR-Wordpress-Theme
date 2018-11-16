@@ -149,7 +149,8 @@ a:hover{
 		background-attachment: scroll;
 		position: relative;
 		background-position: center;
-		background-size: cover;
+		background-size: contain;
 		background-repeat: no-repeat;
+
 	}
 }
