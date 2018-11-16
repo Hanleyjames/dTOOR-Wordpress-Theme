@@ -1,7 +1,7 @@
 <?php get_header(); ?>
-<div class="container">
+
 <div class="landing-image"></div>
-</div>
+
 
 <div class="flex-container-content">
 

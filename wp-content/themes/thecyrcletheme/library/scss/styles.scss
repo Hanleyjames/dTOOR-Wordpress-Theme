@@ -2,13 +2,8 @@
 
 .landing-image{
 background-image: url("../images/SeattleCyrcle.jpg");
-// display: block;
-min-height: 700px;
 
-// background-attachment: fixed;
-// background-position: center;
-// background-repeat: no-repeat;
-// background-size: c
+min-height: 700px;
 
 }
 
@@ -17,11 +12,9 @@ min-height: 700px;
 	position: relative;
 	background-position: center;
 	background-size: cover;
-	width: 100%;
-	 height:  auto;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	// background-size: contain;
+
 }
 
 #my-storm{
@@ -42,10 +35,6 @@ min-height: 700px;
 	background-image: url("../images/M.jpg");
 	min-height: 700px;
 
-	// background-attachment: fixed;
-	// background-position: center;
-	// background-repeat: no-repeat;
-	// background-size:
 }
 
 .blog-footer{
@@ -155,7 +144,6 @@ a:hover{
 		min-height: 700px;
 		background-attachment: scroll;
 		max-width: 100%;
-		background-size: cover;
 
 		// position: relative;
 		// background-position: center;
