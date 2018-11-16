@@ -145,12 +145,14 @@ a:hover{
 	background:#87CEEB;
 	display: flex;
 	border-radius: 50%;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	position: absolute;
 	#mc_embed_signup{
 		background-color: #87CEEB;
 		background:#87CEEB;
-		width: 50%;
-		margin-left: auto;
-		margin-right: auto;
+
 		margin-top: 4px;
 		margin-bottom: 4px;
 	}
