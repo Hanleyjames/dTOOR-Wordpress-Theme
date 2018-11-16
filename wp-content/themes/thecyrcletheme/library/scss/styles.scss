@@ -2,27 +2,19 @@
 
 .landing-image{
 background-image: url("../images/SeattleCyrcle.jpg");
-
-min-height: 950px;
-
-}
-
-.landing-image, .phone{
-	display:block;
-	position: relative;
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-
-
+// display: block;
+height: 100%auto ;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 
 }
 
 #my-storm{
 	width: 100%;
 	background-color: #000;
-	animation-duration: 60s;
+	animation-duration: 30s;
 	animation-name: thestorm;
 }
 @keyframes thestorm {
@@ -35,8 +27,12 @@ min-height: 950px;
 
 .phone{
 	background-image: url("../images/M.jpg");
-	min-height: 700px;
-
+	display: block;
+	min-height: 960px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .blog-footer{
@@ -138,16 +134,5 @@ a{
 
 a:hover{
   color: 	#1E90FF;
-	 text-decoration: none;
-}
-
-@media(max-width:560px){
-	.landing-image, .phone{
-		background-attachment: scroll;
-	min-height: 350px;
-	background-size: cover;
-
-
-
-	}
+	  text-decoration: none;
 }
