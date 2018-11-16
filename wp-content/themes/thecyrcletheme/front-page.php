@@ -26,6 +26,7 @@
     <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
     <!--End mc_embed_signup-->
   </div>
+  </div>
   <div id="my-clouds" class="col-md-12">
     <marquee behavior="scroll" direction="right" scrollamount="14">
       <i class="fa fa-cloud" style="color:white;font-size:40px"></i>
