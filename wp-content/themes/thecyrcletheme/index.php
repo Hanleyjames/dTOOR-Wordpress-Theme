@@ -18,7 +18,7 @@
     </marquee>
 </div>
 <div class="container">
-
+  <?php the_content(); ?>
 </div>
 <div id="my-clouds">
     <marquee behavior="scroll" direction="left" scrollamount="10">
