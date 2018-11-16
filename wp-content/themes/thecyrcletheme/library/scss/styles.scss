@@ -134,13 +134,24 @@ a:hover{
   color: 	#1E90FF;
 	  text-decoration: none;
 }
+
+#less-invasive-mailchimp{
+	background-color: #87CEEB;
+	background:#87CEEB;
+	display: flex;
+}
+
 #mc_embed_signup{
 	background-color: powderblue;
 	background: powderblue;
+	flex-wrap: nowrap;
+	flex-shrink: 1;
+	align-items: baseline;
 	form{
 		background-color: powderblue;
 		background: powderblue;
 		#email-input{
+			flex-grow:2;
 			border-radius: 30%;
 			border-top: 0px;
 			border-left: 0px;
@@ -153,10 +164,20 @@ a:hover{
 			background-color: #193cc6;
 			background: #193cc6;
 			border-radius: 30%;
+			flex-grow:1;
 		}
 		#mc-embedded-subscribe:hover{
 			background-color: #183299;
 			background: #183299;
 		}
+	}
+}
+.FAQ{
+	text-align: center;
+	h2{
+		/* Add font style */
+	}
+	#question-answer{
+
 	}
 }

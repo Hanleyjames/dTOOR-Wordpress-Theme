@@ -3,7 +3,7 @@
 
 <div class="landing-image"></div>
 <div class="flex-container-content">
-  <div class="less-invasive-mailchimp">
+  <div class="less-invasive-mailchimp col-md-12">
     <!-- Begin Mailchimp Signup Form -->
 
     <div id="mc_embed_signup">
@@ -27,7 +27,7 @@
     <!--End mc_embed_signup-->
   </div>
 
-  <div id="my-clouds">
+  <div id="my-clouds" class="col-md-12">
     <marquee behavior="scroll" direction="right" scrollamount="14">
       <i class="fa fa-cloud" style="color:white;font-size:40px"></i>
     </marquee>
@@ -39,7 +39,7 @@
       <i class="fa fa-cloud" style="color:white;font-size:10px"></i>
     </marquee>
   </div>
-  <div class="container">
+  <div class="container col-md-12">
     <h1>The Cyrcle Phone</h1>
 
     <div class="section num1">
@@ -57,7 +57,8 @@
       <p>The Cyrcle phone isn't your ordinary mobile device. We're building a unique experience missed by other kickstarter projects. We feel the need and want for a unique phone design has long since been neglected -- and we're answering the call! We look forward to raising the bar as the best curved phone on the market.</p>
     </div>
   </div>
-  <div id="my-clouds">
+  <div id="my-clouds col-md-12
+  ">
     <marquee behavior="scroll" direction="left" scrollamount="10">
       <i class="fa fa-cloud" style="color:white;font-size:60px"></i>
     </marquee>
