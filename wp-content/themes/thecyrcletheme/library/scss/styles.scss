@@ -1,8 +1,8 @@
-// @media(max-width:568px){
-// 	.landing-image, .phone{
-// 		background-attachment: scroll;
-// 	}
-// }
+@media(max-width:568px){
+	.landing-image, .phone{
+		background-attachment: scroll;
+	}
+}
 
 .landing-image{
 background-image: url("../images/SeattleCyrcle.jpg");
@@ -20,7 +20,7 @@ min-height: 700px;
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-attachment: scroll;
+	background-attachment: fixed;
 }
 
 #my-storm{
@@ -43,7 +43,7 @@ min-height: 700px;
 	// background-attachment: fixed;
 	// background-position: center;
 	// background-repeat: no-repeat;
-	// background-size: 
+	// background-size:
 }
 
 .blog-footer{
