@@ -223,10 +223,10 @@ div#footer_mc{
 	box-shadow: 1px 7px 1px 1px rgba(0,0,0,.3);
  	h3{
 		/* Add font style */
-		padding: 5px;
+		padding: 20px;
 	}
 	p{
-		padding: 5px;
+		padding: 20px;
 	}
  	#question-answer{
 		background-color: #5bbce4;
@@ -237,24 +237,22 @@ div#footer_mc{
 		.question{
 			background-color: #b3e0f2;
 			width: 50%;
-			padding-bottom: 20px;
+			padding: 20px;
 			margin-left: auto;
 			margin-right: auto;
 			margin-top: 20px;
 			margin-bottom: 20px;
-			padding-top: 20px;
 			border-radius: 20%;
 			box-shadow: 1px 3px 1px 1px rgba(0,0,0,.1);
 		}
 		.answer{
 			background-color: #b3e0f2;
 			width: 50%;
-			padding-bottom: 20px;
+			padding: 20px;
 			margin-left: auto;
 			margin-right: auto;
 			margin-top: 20px;
 			margin-bottom: 20px;
-			padding-top: 20px;
 			border-radius: 20%;
 			box-shadow: 1px 3px 1px 1px rgba(0,0,0,.1);
 		}
