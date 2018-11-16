@@ -42,13 +42,16 @@
             <a href="https://dtoor.com/social-purpose-statement"> Annual Report </a></p>
           </div>
 
-          <div class="col-md-6">
+          <div class="col-md-4">
             <div class="icon">
               <a href="#" class="fa fa-facebook"></a>
               <a href="#" class="fa fa-twitter"></a>
               <a href="#" class="fa fa-linkedin"></a>
               <a href="#" class="fa fa-youtube"></a>
             </div>
+          </div>
+          <div class="col-md-2">
+            [mc4wp_form id="286"]
           </div>
         </div>
 
