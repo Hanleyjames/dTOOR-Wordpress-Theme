@@ -1,6 +1,12 @@
 .landing-image{
 background-image: url("../images/SeattleCyrcle.jpg");
-background: no-repeat center center cover;
+	background-image: url("../images/M.jpg");
+	display: block;
+	min-height: 960px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 
 }
 
