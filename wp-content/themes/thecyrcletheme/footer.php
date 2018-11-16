@@ -22,7 +22,7 @@
     </div>
     <footer class="foot-content-below">
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-4">
           <h1><a href="http://dtoor.com"><img src="<?php echo get_template_directory_uri(); ?>/library/images/t.png" id="imgFooter" /></a></h1>
           <p> Copyright dTOOR 2018 <a href="https://dtoor.com/privacy-policy"> Privacy Policy </a> |
             <a href="https://dtoor.com/social-purpose-statement"> Annual Report </a></p>
@@ -35,7 +35,7 @@
               <a href="#" class="fa fa-youtube"></a>
             </div>
           </div>
-          <div class="col-md-2">
+          <div class="col-md-4">
             <!-- Begin Mailchimp Signup Form -->
             <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
             <style type="text/css">
