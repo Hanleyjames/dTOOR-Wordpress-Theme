@@ -44,7 +44,7 @@
 
     <div class="section num1">
       <h2>Unique phones for non-rectangular people</h2>
-      <p>Cyrcle Phone is a unique phones company with a novel aesthetic design. Unlike other designer phones which repeat the same design, we had a mission to make mobile devices for women. The release builds were a huge success, crossing the boundaries of gender and age. We widened our scope and strive for inclusitivity. Our non-traditional phones feature a non-rectangular, round design. We believe this is perfect for those who don't consider themselves non-rectangular.</p>
+      <p>Cyrcle Phone is a unique phones company with a novel aesthetic design. Unlike other designer phones which repeat the same design, we had a mission to make non-rectangular mobile devices. The release builds were a huge success, crossing the boundaries of gender and age. We widened our scope and strive for inclusitivity. Our non-traditional phones feature a non-rectangular, round design. We believe this is perfect for those who don't consider themselves non-rectangular.</p>
 
 
 
