@@ -29,10 +29,10 @@
           </div>
           <div class="col-md-4">
             <div class="icon">
-              <a href="#" class="fa fa-facebook"></a>
-              <a href="#" class="fa fa-twitter"></a>
-              <a href="#" class="fa fa-linkedin"></a>
-              <a href="#" class="fa fa-youtube"></a>
+              <a href="https://www.facebook.com/TheCyrclePhone" class="fa fa-facebook"></a>
+              <a href="https://www.twiter.com/Thecyrclephone" class="fa fa-twitter"></a>
+              <a href="https://www.linkedin.com/company/dtoor" class="fa fa-linkedin"></a>
+              <a href="https://www.youtube.com/channel/UCshjB0L-2t11wnpCJNcJqJA" class="fa fa-youtube"></a>
             </div>
           </div>
           <div class="col-md-4">
