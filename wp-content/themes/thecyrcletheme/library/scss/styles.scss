@@ -8,7 +8,9 @@ background-repeat: no-repeat;
 background-size: cover;
 
 }
-
+body{
+	width:100%;
+}
 #my-storm{
 	width: 100%;
 	background-color: #000;
@@ -195,9 +197,15 @@ a:hover{
 		z-index: 3;
 		.question{
 			background-color: #b3e0f2;
+			max-width: 75%;
+			padding-bottom: 0px;
+			padding-top: 0px;
 		}
 		.answer{
 			background-color: #b3e0f2;
+			max-width: 75%;
+			padding-bottom: 0px;
+			padding-top: 0px;
 		}
 	}
 }
