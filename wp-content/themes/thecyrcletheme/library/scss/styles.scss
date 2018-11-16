@@ -141,7 +141,17 @@ a:hover{
 	  text-decoration: none;
 }
 
-
+#less-invasive-mailchimp{
+	background-color: #87CEEB;
+	background:#87CEEB;
+	display: flex;
+	border-radius: 50%;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	#mc_embed_signup{
+	}
+}
 #mc_embed_signup{
 	background-color: powderblue;
 	background: powderblue;
@@ -174,17 +184,7 @@ a:hover{
 		}
 	}
 }
-#less-invasive-mailchimp{
-	background-color: #87CEEB;
-	background:#87CEEB;
-	display: flex;
-	border-radius: 50%;
-	width: 50%;
-	margin-left: auto;
-	margin-right: auto;
-	#mc_embed_signup{
-	}
-}
+
 .FAQ{
 	text-align: center;
 	background: #87CEEB;
