@@ -1,5 +1,7 @@
 <?php get_header(); ?>
+<div class="container">
 <div class="landing-image"></div>
+</div>
 
 <div class="flex-container-content">
 
@@ -16,7 +18,7 @@
     </marquee>
 </div>
 <div class="container">
-  
+
 </div>
 <div id="my-clouds">
     <marquee behavior="scroll" direction="left" scrollamount="10">
