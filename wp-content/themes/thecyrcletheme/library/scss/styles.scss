@@ -145,6 +145,7 @@ a:hover{
 	background-color: #87CEEB;
 	background:#87CEEB;
 	display: flex;
+	border-radius: 50%;
 	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
@@ -155,7 +156,7 @@ a:hover{
 		margin-bottom: 4px;
 		#email-input{
 			position:relative;
-			border-radius: 20%;
+			border-radius: 30%;
 			border-top: 0px;
 			border-left: 0px;
 			border-right: 0px;
