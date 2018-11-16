@@ -14,6 +14,7 @@
     </label>
         <input id="email-input" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Required" required>
     </div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
         <div id="mce-responses" class="clear">
             <div class="response" id="mce-error-response" style="display:none"></div>
             <div class="response" id="mce-success-response" style="display:none"></div>
