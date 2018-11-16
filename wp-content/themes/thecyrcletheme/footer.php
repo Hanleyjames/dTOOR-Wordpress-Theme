@@ -46,12 +46,11 @@
             <div id="mc_embed_signup">
             <form action="https://thecyrclephone.us12.list-manage.com/subscribe/post?u=01a458396e37205a5745fbfec&amp;id=7b4ccb81be" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                <div id="mc_embed_signup_scroll">
-                <h2>Subscribe to our mailing list</h2>
-            <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+                <h4>Subscribe to our mailing list</h4>
             <div class="mc-field-group">
-                <label for="mce-EMAIL" id="email-label">Email Address  <span class="asterisk">*</span>
+                <label for="mce-EMAIL" id="email-label">Email Address
             </label>
-                <input id="email-input" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                <input id="email-input" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Required" required>
             </div>
                 <div id="mce-responses" class="clear">
                     <div class="response" id="mce-error-response" style="display:none"></div>
