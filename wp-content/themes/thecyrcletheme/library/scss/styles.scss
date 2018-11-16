@@ -4,7 +4,7 @@
 background-image: url("../images/SeattleCyrcle.jpg");
 // display: block;
 min-height: 700px;
-max-width: 100%;
+
 // background-attachment: fixed;
 // background-position: center;
 // background-repeat: no-repeat;
@@ -38,7 +38,7 @@ max-width: 100%;
 .phone{
 	background-image: url("../images/M.jpg");
 	min-height: 700px;
-	max-width: 100%,
+
 	// background-attachment: fixed;
 	// background-position: center;
 	// background-repeat: no-repeat;
@@ -149,8 +149,10 @@ a:hover{
 
 @media(max-width:568px){
 	.landing-image{
-		// min-height: 700px;
+		min-height: 700px;
 		background-attachment: scroll;
+		max-width: 100%;
+
 		// position: relative;
 		// background-position: center;
 		// // background-size: auto;
