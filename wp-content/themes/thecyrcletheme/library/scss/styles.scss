@@ -168,8 +168,9 @@ a:hover{
 		background-color: powderblue;
 		background: powderblue;
 		#email-input{
+			position:relative;
 			flex-grow:2;
-			max-width: 30%;
+			width: 20%;
 			border-radius: 30%;
 			border-top: 0px;
 			border-left: 0px;
