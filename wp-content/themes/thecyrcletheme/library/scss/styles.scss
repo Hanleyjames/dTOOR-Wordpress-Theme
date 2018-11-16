@@ -1,8 +1,4 @@
-@media(max-width:568px){
-	.landing-image, .phone{
-		background-attachment: scroll;
-	}
-}
+
 
 .landing-image{
 background-image: url("../images/SeattleCyrcle.jpg");
@@ -146,4 +142,10 @@ a{
 a:hover{
   color: 	#1E90FF;
 	  text-decoration: none;
+}
+
+@media(max-width:568px){
+	.landing-image{
+		background-attachment: scroll;
+	}
 }
