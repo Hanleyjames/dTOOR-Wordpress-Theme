@@ -39,6 +39,8 @@
       <i class="fa fa-cloud" style="color:white;font-size:10px"></i>
     </marquee>
   </div>
+
+
   <div class="container col-md-12">
     <h1>The Cyrcle Phone 4G</h1>
 
@@ -76,6 +78,7 @@
 <div class="FAQ">
   <h2>FAQ</h2>
   <br />
+
   <div id="question-answer">
     <div class="question">
       <h3>Why are there no images of your new phone model?</h3>
