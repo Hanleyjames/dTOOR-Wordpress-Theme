@@ -159,9 +159,19 @@ a:hover{
 			border-top: 0px;
 			border-left: 0px;
 			border-right: 0px;
+			border-bottom: 2px;
 			border-width: thin;
 			border-color: black;
-			background-image: linear-gradient(180, powderblue, #60a7c1);
+		}
+		#mc-embedded-subscribe{
+			background-color: #193cc6;
+			background: #193cc6;
+			border-radius: 30%;
+			flex-grow:1;
+		}
+		#mc-embedded-subscribe:hover{
+			background-color: #183299;
+			background: #183299;
 		}
 	}
 	input{
