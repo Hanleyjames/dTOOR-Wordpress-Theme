@@ -183,10 +183,21 @@ a:hover{
 	text-align: center;
 	background: #87CEEB;
 	background-color: #87CEEB;
+	z-index: 2;
+	margin-bottom: 100px;
+	padding-bottom: 20px;
+
 	h2{
 		/* Add font style */
 	}
 	#question-answer{
-
+		background-color: #5bbce4;
+		z-index: 3;
+		.question{
+			background-color: #b3e0f2;
+		}
+		.answer{
+			background-color: #b3e0f2;
+		}
 	}
 }
