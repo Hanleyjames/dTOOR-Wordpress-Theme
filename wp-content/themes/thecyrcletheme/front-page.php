@@ -3,9 +3,9 @@
 
 <div class="landing-image"></div>
 
-
-<div class="less-invasive-mailchimp col-md-12">
   <div class="flex-container-content">
+    <div class="less-invasive-mailchimp col-md-12">
+
     <div id="mc_embed_signup front-page-mc">
       <form action="https://thecyrclephone.us12.list-manage.com/subscribe/post?u=01a458396e37205a5745fbfec&amp;id=7b4ccb81be" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
@@ -25,7 +25,6 @@
     </div>
     <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
     <!--End mc_embed_signup-->
-  </div>
   </div>
   <div id="my-clouds" class="col-md-12">
     <marquee behavior="scroll" direction="right" scrollamount="14">
