@@ -1,10 +1,7 @@
 <?php get_header(); ?>
 
-<div class="landing-image">
-</div>
-<div class="project-introduction">
-</div>
-<div class="t"></div>
+
+<div class="landing-image"></div>
 <div class="flex-container-content">
 
   <div id="my-clouds">
@@ -53,6 +50,45 @@
 
 <div class="phone"></div>
 <div class="FAQ">
-  
+  <h2>FAQ</h2>
+  <br />
+  <div id="question-answer">
+    <div class="question">
+      <h3>Why are there no images of your new phone model?</h3>
+    </div>
+    <div class="answer">
+      <p>We are saving images of the phone for a week before the launche since we would like to keep our design uniquely our own. However, if you're interested in learning more you can explore our youtube channel or sign up for our mailing list.</p>
+    </div>
+    <div class="question">
+      <h3>When is it being launched?</h3>
+    </div>
+    <div class="answer">
+      <p>2018</p>
+    </div>
+    <div class="question">
+      <h3>What does 'non-rectangular' mean?</h3>
+    </div>
+    <div class="answer">
+      <p>Anything that goes against convention(legally). Be different. Think outside of the rectangle.</p>
+    </div>
+    <div class="question">
+      <h3>So, why a circle?</h3>
+    </div>
+    <div class="answer">
+      <p>Rectangles, unlike circles, are man-made shapes. They don't occur naturally. Circles are ubiquitous in nature. They're cool. They're different. Plus they fit in your pocket with ease.</p>
+    </div>
+    <div class="question">
+      <h3>What are the specifications?</h3>
+    </div>
+    <div class="answer">
+      <p>They are LTE 4g Android phones, but for the same reasons mentioned in the first answer, we cannot disclose any more details about the phone at this time.</p>
+    </div>
+    <div class="question">
+      <h3>How can I find out more?</h3>
+    </div>
+    <div class="answer">
+      <p>Sign up for our updates! It's the best way to know about our current development. Otherwise, you can check out our Kickstarter and Social Purpose Statement!</p>
+    </div>
+  </div>
 </div>
 <?php get_footer(); ?>
