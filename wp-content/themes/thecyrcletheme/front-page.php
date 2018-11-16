@@ -21,7 +21,7 @@
 
     <div class="section num1">
       <h2>Unique phones for non-rectangular people</h2>
-      <p>Cyrcle Phone is a unique phones company with a novel aesthetic design. Unlike other designer phones which repeat the same design, we had a mission to make mobile devices for women. The release builds were a huge success, crossing the boundaries of gender and age. Our non-traditional phones feature a non-rectangular, round design. We believe this is perfect for those who don't consider themselves non-rectangular.</p>
+      <p>Cyrcle Phone is a unique phones company with a novel aesthetic design. Unlike other designer phones which repeat the same design, we had a mission to make mobile devices for women. The release builds were a huge success, crossing the boundaries of gender and age. We widened our scope and strive for inclusitivity. Our non-traditional phones feature a non-rectangular, round design. We believe this is perfect for those who don't consider themselves non-rectangular.</p>
 
 
 
@@ -60,7 +60,7 @@
       <p>We are saving images of the phone for a week before the launche since we would like to keep our design uniquely our own. However, if you're interested in learning more you can explore our youtube channel or sign up for our mailing list.</p>
     </div>
     <div class="question">
-      <h3>When is it being launched?</h3>
+      <h3>When is the CyrclePhone being launched?</h3>
     </div>
     <div class="answer">
       <p>2018</p>
@@ -78,16 +78,16 @@
       <p>Rectangles, unlike circles, are man-made shapes. They don't occur naturally. Circles are ubiquitous in nature. They're cool. They're different. Plus they fit in your pocket with ease.</p>
     </div>
     <div class="question">
-      <h3>What are the specifications?</h3>
+      <h3>What are the specifications for the CyrclePhone?</h3>
     </div>
     <div class="answer">
       <p>They are LTE 4g Android phones, but for the same reasons mentioned in the first answer, we cannot disclose any more details about the phone at this time.</p>
     </div>
     <div class="question">
-      <h3>How can I find out more?</h3>
+      <h3>How can I find out more about the CyrclePhone?</h3>
     </div>
     <div class="answer">
-      <p>Sign up for our updates! It's the best way to know about our current development. Otherwise, you can check out our Kickstarter and Social Purpose Statement!</p>
+      <p>Sign up for our updates! It's the best way to know about our current development. Otherwise, you can check out our (Old)Kickstarter and Social Purpose Statement!</p>
     </div>
   </div>
 </div>
