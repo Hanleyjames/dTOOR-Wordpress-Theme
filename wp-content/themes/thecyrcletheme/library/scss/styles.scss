@@ -219,7 +219,7 @@ div#footer_mc{
 	z-index: 2;
 	margin-bottom: -20px;
 	padding-bottom: 100px;
-	box-shadow: 3px 7px 3px 3px rgba(0,0,0,.1);
+	box-shadow: 0px 7px 0px 0px rgba(0,0,0,.1);
  	h3{
 		/* Add font style */
 		padding: 20px;
@@ -232,7 +232,7 @@ div#footer_mc{
 		z-index: 3;
 		padding-bottom: 10px;
 		padding-top: 10px;
-		box-shadow: 3px 3px 3px 3px rgba(0,0,0,.1);
+		box-shadow: 0px 3px 0px 0px rgba(0,0,0,.1);
 		.question{
 			background-color: #b3e0f2;
 			width: 50%;
@@ -242,7 +242,7 @@ div#footer_mc{
 			margin-top: 20px;
 			margin-bottom: 20px;
 			border-radius: 20%;
-			box-shadow: 1px 3px 1px 1px rgba(0,0,0,.1);
+			box-shadow: 3px 3px 3px 3px rgba(0,0,0,.1);
 			font-size: 20px;
 		}
 		.answer{
@@ -254,7 +254,7 @@ div#footer_mc{
 			margin-top: 20px;
 			margin-bottom: 20px;
 			border-radius: 20%;
-			box-shadow: 1px 3px 1px 1px rgba(0,0,0,.1);
+			box-shadow: 3px 3px 3px 3px rgba(0,0,0,.1);
 		}
 	}
 }
