@@ -1,4 +1,8 @@
-
+@media(max-width:568px){
+	.landing-image, .phone{
+		background-attachment: scroll;
+	}
+}
 
 .landing-image{
 background-image: url("../images/SeattleCyrcle.jpg");
