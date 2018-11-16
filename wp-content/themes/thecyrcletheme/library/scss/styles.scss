@@ -140,7 +140,11 @@ a:hover{
 	background:#87CEEB;
 	display: flex;
 	border-radius: 50%;
-	max-width:
+	max-width: 50%;
+	opacity: 0.5;
+	#mc_embed_signup{
+		opacity: 1;
+	}
 }
 
 #mc_embed_signup{
