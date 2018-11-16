@@ -141,12 +141,14 @@ a:hover{
 		background-color: powderblue;
 		background: powderblue;
 		input{
-			border-radius: 20%;
+			border-radius: 30%;
 			border-top: 0px;
 			border-left: 0px;
 			border-right: 0px;
-			border-width: medium;
+			border-width: thin;
 			border-color: black;
+			background-image: linear-gradient(180, powderblue, #60a7c1);
+
 		}
 	}
 }
