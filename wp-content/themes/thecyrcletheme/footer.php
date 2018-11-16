@@ -5,7 +5,7 @@
     <div class="flex-container-foot">
       <div class="section section1">
         <h2>Products</h2>
-        <p><a href="https://www.cyrclephone.com/">CyrclePhone</a></p>
+        <p><a href="https://www.thecyrclephone.com/">CyrclePhone</a></p>
         <p><a href="https://www.kickstarter.com/projects/1662021259/make-your-own-cyrcle-phone">Kickstarter</a></p>
       </div>
 
@@ -42,13 +42,16 @@
             <a href="https://dtoor.com/social-purpose-statement"> Annual Report </a></p>
           </div>
 
-          <div class="col-md-6">
+          <div class="col-md-4">
             <div class="icon">
               <a href="#" class="fa fa-facebook"></a>
               <a href="#" class="fa fa-twitter"></a>
               <a href="#" class="fa fa-linkedin"></a>
               <a href="#" class="fa fa-youtube"></a>
             </div>
+          </div>
+          <div class="col-md-2">
+            [mc4wp_form id="286"]
           </div>
         </div>
 
