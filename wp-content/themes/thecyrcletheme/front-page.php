@@ -40,7 +40,7 @@
     </marquee>
   </div>
   <div class="container col-md-12">
-    <h1>The Cyrcle Phone</h1>
+    <h1>The Cyrcle Phone 4G</h1>
 
     <div class="section num1">
       <h2>Unique phones for non-rectangular people</h2>
@@ -49,12 +49,12 @@
 
 
       <h2>Our diy smartphone journey</h2>
-      <p>Our Cyrcle Phone prototype had a successful <a href="https://www.kickstarter.com/projects/1662021259/make-your-own-cyrcle-phone"><strong>Kickstarter campaign</strong></a>. We met our kickstarter goal and since then gaining incredible traction. We believe our unique smart phone design and concepts breathes fresh air in an otherwise drab market.</p>
+      <p>Our Cyrcle Phone 2G prototype had a successful <a href="https://www.kickstarter.com/projects/1662021259/make-your-own-cyrcle-phone"><strong>Kickstarter campaign</strong></a>. We met our kickstarter goal and since then gaining incredible traction. We believe our unique smart phone design and concepts breathes fresh air in an otherwise drab market.</p>
     </div>
 
     <div class="section num2">
       <h2>Unique phones, unique ideas.</h2>
-      <p>The Cyrcle phone isn't your ordinary mobile device. We're building a unique experience missed by other kickstarter projects. We feel the need and want for a unique phone design has long since been neglected -- and we're answering the call! We look forward to raising the bar as the best curved phone on the market.</p>
+      <p>The Cyrcle Phone 4G isn't your ordinary mobile device. We're building a unique experience missed by other kickstarter projects. We feel the need and want for a unique phone design has long since been neglected -- and we're answering the call! We look forward to raising the bar as the best curved phone on the market.</p>
     </div>
   </div>
   <div id="my-clouds col-md-12
@@ -84,7 +84,7 @@
       <p>We are saving images of the phone for a week before the launche since we would like to keep our design uniquely our own. However, if you're interested in learning more you can explore our youtube channel or sign up for our mailing list.</p>
     </div>
     <div class="question">
-      <h3>When is the CyrclePhone being launched?</h3>
+      <h3>When is the CyrclePhone 4G being launched?</h3>
     </div>
     <div class="answer">
       <p>2018</p>
@@ -102,13 +102,13 @@
       <p>Rectangles, unlike circles, are man-made shapes. They don't occur naturally. Circles are ubiquitous in nature. They're cool. They're different. Plus they fit in your pocket with ease.</p>
     </div>
     <div class="question">
-      <h3>What are the specifications for the CyrclePhone?</h3>
+      <h3>What are the specifications for the CyrclePhone 4G?</h3>
     </div>
     <div class="answer">
       <p>They are LTE 4g Android phones, but for the same reasons mentioned in the first answer, we cannot disclose any more details about the phone at this time.</p>
     </div>
     <div class="question">
-      <h3>How can I find out more about the CyrclePhone?</h3>
+      <h3>How can I find out more about the CyrclePhone 4G?</h3>
     </div>
     <div class="answer">
       <p>Sign up for our updates! It's the best way to know about our current development. Otherwise, you can check out our (Old)Kickstarter and Social Purpose Statement!</p>
