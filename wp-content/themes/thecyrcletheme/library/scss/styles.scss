@@ -1,17 +1,17 @@
-@media(max-width:568px){
-	.landing-image, .phone{
-		background-attachment: scroll;
-	}
-}
+// @media(max-width:568px){
+// 	.landing-image, .phone{
+// 		background-attachment: scroll;
+// 	}
+// }
 
 .landing-image{
 background-image: url("../images/SeattleCyrcle.jpg");
 // display: block;
 min-height: 700px;
-background-attachment: fixed;
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
+// background-attachment: fixed;
+// background-position: center;
+// background-repeat: no-repeat;
+// background-size: cover;
 
 }
 
@@ -32,10 +32,10 @@ background-size: cover;
 .phone{
 	background-image: url("../images/M.jpg");
 	min-height: 700px;
-	background-attachment: fixed;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
+	// background-attachment: fixed;
+	// background-position: center;
+	// background-repeat: no-repeat;
+	// background-size: cover;
 }
 
 .blog-footer{
