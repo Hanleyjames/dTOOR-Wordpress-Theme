@@ -1,0 +1,275 @@
+/*
+Theme Name: White Cyrcle
+Theme URI: https://github.com/dTOOR/dTOOR-Wordpress-Theme
+Author: Brian Palowski & James Hanley
+Author Uri: https://github.com/Hanleyjames https://github.com/bpalowski
+Description: Brian Palowski's HTML template imported into a WP theme
+Version: 1.0
+Text Domain: whitecyrcle
+*/
+.videoContainer {
+  position: relative;
+}
+video {
+  height: auto;
+  vertical-align: middle;
+  width: 100%;
+  filter: blur(4px);
+
+}
+.textOver{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: rgba(28,31,39, 0.6)
+
+}
+.container-fluid{
+
+}
+
+
+.title{
+font-family: 'KoHo', sans-serif;
+color: white;
+font-size: 70px;
+text-align: center;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+.bottom{
+  margin-top: 0px;
+  font-family: 'KoHo', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+/* .button{
+  float: right;
+} */
+
+.mc-field-group{
+  display: flex;
+  justify-content: center;
+  /* width: 200px; */
+}
+input{
+  border-radius: 10px;
+  width: 350px;
+}
+
+
+.icon{
+  padding-top: 80px;
+  padding-left: 150px;
+}
+
+.clear{
+  margin-left: 0px;
+  display: flex;
+  justify-content: center;
+}
+
+img{
+  height: 60px:
+  width: 40px;
+  padding: 20px;
+  border-radius: 150px;
+}
+
+.first-row, .second-row, .third-row{
+
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+
+.body-head{
+  text-align: center;
+}
+/* start */
+
+#flex-container {
+  max-width: 750px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction:column;
+}
+
+#part{
+  flex: 1;
+  padding-bottom: 50px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+
+
+
+
+.flex-container-foot{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-bottom: 250px;
+  text-align: center;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  color: 	#1E90FF;
+	text-decoration: none;
+}
+#first{
+  padding-left: 90px;
+}
+
+
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#top{
+  width:450px;
+  text-align: center;
+}
+
+.fa {
+	padding-top: 20px;
+  padding: 5px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 1;
+    color: black;
+}
+
+.fa-twitter {
+
+  background: #55ACEE;
+  color: white;
+}
+.fa-facebook {
+
+  background: #3B5998;
+  color: white;
+}
+
+.fa-linkedin {
+
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-youtube {
+
+  background: #bb0000;
+  color: white;
+}
+
+/* end */
+
+@media(max-width:560px){
+	.flex-container-foot{
+padding-bottom: 5px;
+	}
+}
+/* @media(max-width:560px){
+	.first-row, .second-row, .third-row{
+padding: 0px;
+	}
+} */
+
+@media(max-width:560px){
+	img{
+    display: flex;
+    width:150px;
+    height: 150px;
+	}
+}
+
+
+@media(max-width:560px){
+	.all{
+font-size: 10px;
+	}
+}
+
+
+
+
+@media(max-width:560px){
+#imgFooter{
+  display: block;
+  width: 250px;
+  height: 95px;
+}
+}
+
+@media(max-width:560px){
+	.section{
+    font-size: 15px;
+    flex: 100%;
+    max-width: 100%;
+	}
+}
+
+
+
+
+@media(max-width:560px){
+	.title{
+    font-size: 25px;
+	}
+}
+
+
+@media(max-width:560px){
+	.icon{
+    padding-top: 0px;
+    padding-left: 90px;
+	}
+}
+
+
+@media(max-width:560px){
+	.bottom{
+    font-size: 10px;
+	}
+}
+
+@media(max-width:560px){
+	input{
+		width: 250px;
+	}
+}
+
+#my-storm{
+	width: 100%;
+	background-color: #000;
+	animation-duration: 60s;
+	animation-name: thestorm;
+}
+@keyframes thestorm {
+	0% {background-color: #000;}
+	25% {background-color: #2c2d2d;}
+	50% {background-color: #3f3f3f;}
+	75% {background-color: #282828;}
+	100% {background-color: #000;}
+}
